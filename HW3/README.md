@@ -1,0 +1,27 @@
+For this homework assignment, you are going to use <u>part</u> of the United States Wind Turbine Database (USWTDB), containing the information about the locations of land-based and offshore wind turbines in the United States, corresponding wind project information, and turbine technical specifications (for more information see: https://eerscmap.usgs.gov/uswtdb). The variables in the dataset are:
+
+- **case_id**: Unique uswtdb id
+- **faa_ors**: Federal Avaiation Administration digital obstacle file (dof) for obstacle repository system (ors)
+- **faa_asn**: Federal Avaiation Administration obstruction evaluation - airport airspace analysis (oe-aaa) aeronautical study number (asn)
+- **usgs_pr_id**: United States Geological Survey id from prior turbine dataset
+- **eia_id**: Energy Information Administration plant id from eia form 860
+- **t_state**: State where turbine is located
+- **t_county**: County where turbine is located
+- **t_fips**: State and county fips where turbine is located
+- **p_name**: Project name
+- **p_year**: Year project became operational
+- **p_tnum**: Number of turbines in project
+- **p_cap**: Project capacity (MW)
+- **t_manu**: Turbine original equipment manufacturer
+- **t_model**: Turbine model
+- **t_cap**: Turbine capacity (kW)
+- **t_hh**: Turbine hub height (meters)
+- **t_rd**: Turbine rotor diameter (meters)
+- **t_rsa**: Turbine rotor swept area (meters^2)
+- **t_ttlh**: Turbine total height - calculated (meters)
+- **t_conf_atr**: Turbine characteristic confidence (0-3)
+- **t_conf_loc**: Location confidence (0-3)
+- **t_img_date**: Date of image used to visually verify turbine location
+- **t_img_srce**: Source of image used to visually verify turbine location
+- **xlong**: Longitude (decimal degrees - NAD 83 datum)
+- **ylat**: Latitude (decimal degrees - NAD 83 datum)
