@@ -1,0 +1,1 @@
+Strain rate sensitivity of cortical bone for longitudinal tensile loading (From Kutz, 2003; data from McElhaney and Byars, 1965.)
