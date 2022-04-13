@@ -6,7 +6,7 @@ UCI source: https://archive.ics.uci.edu/ml/datasets/Steel+Plates+Faults
 Original source: Semeion, Research Center of Sciences of Communication, Via Sersale 117, 00128, Rome, Italy.
 www.semeion.it
 
-## Details
+## Overview
 
 Abstract: A dataset of steel plates' faults, classified into 7 different types. The goal was to train machine learning for automatic pattern recognition.
 
@@ -18,20 +18,20 @@ Abstract: A dataset of steel plates' faults, classified into 7 different types. 
 * Associated Tasks: Classification
 * Missing Values?: N/A
 
-## Information
+## Details
 
 Type of dependent variables (7 Types of Steel Plates Faults):
-1.Pastry
-2.Z_Scratch
-3.K_Scatch
-4.Stains
-5.Dirtiness
-6.Bumps
-7.Other_Faults 
 
-## Attribute Information
+1. Pastry
+2. Z_Scratch
+3. K_Scatch
+4. Stains
+5. Dirtiness
+6. Bumps
+7. Other_Faults 
 
 27 independent variables:
+
 * X_Minimum
 * X_Maximum
 * Y_Minimum
